@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cs.ucu.edu.ua/CLionProjects/MyFy/main.cpp
+iostream
+-
+fstream
+-
+chrono
+-
+atomic
+-
+math.h
+-
+sstream
+-
+thread
+C:/Users/cs.ucu.edu.ua/CLionProjects/MyFy/thread
+mutex
+C:/Users/cs.ucu.edu.ua/CLionProjects/MyFy/mutex
+

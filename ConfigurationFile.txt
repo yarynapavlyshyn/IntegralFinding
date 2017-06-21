@@ -1,0 +1,12 @@
+from_x = 0
+to_x = 10
+from_y = 1
+to_y = 3
+threads = 5
+m = 5
+c,a,b m times:
+0 1 4
+1 1 2
+4 3 2
+2 2 2
+7 9 0

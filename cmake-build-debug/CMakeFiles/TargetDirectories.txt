@@ -1,0 +1,3 @@
+C:/Users/cs.ucu.edu.ua/CLionProjects/MyFy/cmake-build-debug/CMakeFiles/MyFy.dir
+C:/Users/cs.ucu.edu.ua/CLionProjects/MyFy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cs.ucu.edu.ua/CLionProjects/MyFy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
